@@ -16,7 +16,7 @@
 title: Gorg's Blog
 #email: schore.r@gmx.de
 description: >- # this means to ignore newlines until "baseurl:"
-   Dies ist ein kleiner privater Blog der akuelle Gedanken zum Tag, aktuelle
+   Dies ist ein kleiner privater Blog auf dem akuelle Gedanken zum Tag, aktuelle
    Trends über Linux, Programmieren und vieles mehr zu finden ist.
   
 baseurl: "/blog" # the subpath of your site, e.g. /blog
