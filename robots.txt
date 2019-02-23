@@ -1,4 +1,6 @@
+---
+---
 # www.robotstxt.org
 
 User-agent: *
-Disallow: impressum.html
+Disallow: /impressum.html

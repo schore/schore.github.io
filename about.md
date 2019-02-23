@@ -3,16 +3,19 @@ layout: page
 title: About
 permalink: /about/
 ---
+Ich bin ein Softwareentwickler und *spiele* gerne mit neuen
+Technologien. Damit ihr auch daran Teilhaben könnt, schreibe ich
+diesen kleinen Blog. Ich denke allerdings das die Reichweite
+sehr beschränkt sein wird. Das wird sich aber in der Zukunft
+herausstellen.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Meine Interessen sind:
+* Linux
+* Softwareentwicklung
+* Emacs
+* Elektronik
+* Raumfahrt
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Ich werde hier an dieser Stelle einfach meinen Senf zu einigen
+dieser Themen abgeben und versuchen euch auch damit ein bisschen zu
+begeistern.
