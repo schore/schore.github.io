@@ -165,3 +165,11 @@ So if you are interested, there are some steps in order to play the game.
 I hope this works, however I am not sure. Don't hesitate to ask me in case of
 problems.
    
+# The game
+
+Here I managed to export a compiled version, which you can play right now.
+
+<div id="app">
+The game itself
+</div>
+<script src="{{site.baseurl}}/asset/tictactoe.js" type="text/javascript"></script>
