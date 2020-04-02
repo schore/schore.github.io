@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
    Dies ist ein kleiner privater Blog auf dem akuelle Gedanken zum Tag, aktuelle
    Trends über Linux, Programmieren und vieles mehr zu finden ist.
   
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://schore.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings

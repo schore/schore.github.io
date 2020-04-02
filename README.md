@@ -2,4 +2,4 @@
 
 My little weblog hosten on github.io
 
-https://schore.github.io/blog/
+https://schore.github.io/
