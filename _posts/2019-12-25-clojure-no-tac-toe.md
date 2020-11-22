@@ -172,4 +172,4 @@ Here I managed to export a compiled version, which you can play right now.
 <div id="app">
 The game itself
 </div>
-<script src="{{site.baseurl}}/asset/tictactoe.js" type="text/javascript"></script>
+<script src="{{ '/asset/tictactoe.js' | absolute_url }}" type="text/javascript"></script>
